@@ -1,0 +1,8 @@
+You will keep expanding your viz design and notebook in Assignment-4.
+You will use your notebook and the same data, and add the design of interactive dynamic visualizations made with Plotly Express
+and Plotly Dash. Then, in a paragraph, you will narrate the interactive design and your experience. I assume you practiced all the workshops #6, #7 and #8 on Plotly and Plotly Dash. Review the workshops and visit the Dash
+Core Components Gallery at https://dash.plotly.com/dash-core-components. Open the notebook submitted from Assignment-4, make a copy, and design any three interactive charts using Plotly Express (px). Feel free to make more vizs.
+Then, use the same px's charts and apply the plotly dash interactive component (just one) to each chart like dropdown or
+slider or else. 
+Observe the capacities of interactive features. In the notebook, narrate what you have designed and your experience in a
+paragraph using Notebook's Markdown.
