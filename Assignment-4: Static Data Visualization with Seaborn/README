@@ -1,0 +1,19 @@
+Your task and the instruction:
+Take a look at this doc and read the instructions.
+Choose a dataset from seaborn package's repository.
+Based on your goal, do explaratory data analysis (eda) with visual components from, mainly, the Seaborn pack. It is ok to use
+other non-interactive visualization packs.
+You can use other packs to clean/organize data.
+Practice the visualization codes in the first five Python Workshops.
+Browse the seaborn gallery (it is in the seaborn workshop). Probably including at least seven modern and multivariate
+plots with nice formatted should be ok.
+Use Markdown to write a professional report that has topics, subtopics, table of contents, references, full sentences etc.
+Give a name to this .ipynb notebook for the report that includes your name and dataset name like {yusuf}-{iris}.
+Update/add topic titles, include Python codes and show in the report, remove my comments given in {}.
+Reflect the theories and methods learnt the course: we have all developed the cookbook so feel free to implement some.
+Once you finish the work, run all cells, save and export it as pdf. Your submission on myCourses will include both the .ipynb
+notebook and the pdf files. Export as pdf will require some packages (or, trick is to export as html, then make it pdf print).
+Make sure your pdf report shows all writing and visualizations.
+And write the summary at the top of what insights and actionable analytics you obtained from the visualizations with
+Seaborn.
+Missing any instruction here and in the doc will cause losing points.
